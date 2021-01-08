@@ -44,7 +44,7 @@
     }
 </style>
 <div style="margin:10px 15px">
-    <img src="template/img/gongfang_keke.png" height="31">
+    <img src="template/img/test.png" height="31">
     <div style="font-size:27px;width: 544px;word-break: break-word;font-family:'黑体-简',mengnan;">{T}</div>
 </div>
 <!--样式2海星字体（首次加载较慢）-->
