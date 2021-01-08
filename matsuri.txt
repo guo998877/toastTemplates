@@ -3,7 +3,7 @@
     .link{color:#1DA1F2}
 </style>
 <div style="margin:10px 15px">
-    <img src="img/test.png" height="38">
+    <img src="img/1test.png" height="38">
     <div style="font-size: 23px;width: 610px;word-break: break-word;">{T}</div>
 </div>
 <!--工坊Logo样式1-->
