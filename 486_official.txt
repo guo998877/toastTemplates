@@ -28,6 +28,7 @@
     }
 </style>
 <div style="margin:10px 15px">
+·   <img src="http://www.liangshunet.com/lsfile/ad/huaright.jpg">
     <img src="template/img/486_official_small.png" height="40">
     <div style="font-size:27px;font-family:'黑体-简',mengnan;">{T}</div>
 </div>
